@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is E6A8-4563
+
+ Directory of D:\Desktop\Jay\Courses\Git\Practice
+
+21-08-2022  12:59    <DIR>          .
+21-08-2022  12:59    <DIR>          ..
+21-08-2022  13:00                 0 11.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  330,606,661,632 bytes free
